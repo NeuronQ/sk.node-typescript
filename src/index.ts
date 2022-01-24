@@ -1,5 +1,5 @@
-import { add } from "./add"
+import { add } from './add'
 
-let x = 2
+const x = 22
 
-console.log("2 + 3 =", add(2, 3))
+console.log('2 + 3 =', add(2, 3))

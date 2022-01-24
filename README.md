@@ -39,6 +39,12 @@ Run TS directly with ts-node:
 npm run start-ts
 ```
 
+Manually run pre-commit checks on staged code:
+
+```shell
+npx lint-staged
+```
+
 ## How to run tests
 
 ```shell
