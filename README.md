@@ -1,6 +1,6 @@
 # Starter Kit for Node + Typescript apps - 2022 edition
 
-> **This is basically *the simplest* / *most minimalistic* such starter kit you'll ever find that includes all the basic stuff for serious app development (testing, code quality tools etc.)
+> **This is basically *the simplest* / *most minimalistic* such starter kit you'll ever find that includes all the basic stuff for serious app development (testing, code quality tools etc.)**
 
 Starter kit for apps using:
 - Node.js (v16+, probably works with v14 too)
